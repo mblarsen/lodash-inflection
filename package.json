@@ -1,5 +1,5 @@
 {
-  "name": "lodash.inflection",
+  "name": "lodash-inflection",
   "version": "1.2.0",
   "description": "ActiveSupport::Inflector, for lodash!",
   "main": "index.js",
