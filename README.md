@@ -1,4 +1,4 @@
-## lodash.inflection
+## lodash-inflection
 
 > [![NPM version][npm-badge]][npm]
 > [![Build Status][travis-badge]][travis-ci]
@@ -190,13 +190,13 @@ Though no code was taken directly from them, they deserve plenty of props for do
 
 [MIT License][LICENSE]
 
-[npm]: http://badge.fury.io/js/lodash.inflection
-[npm-badge]: https://badge.fury.io/js/lodash.inflection.svg
-[travis-ci]: https://travis-ci.org/tuvistavie/lodash.inflection
-[travis-badge]: https://travis-ci.org/tuvistavie/lodash.inflection.svg?branch=master
-[coveralls]: https://coveralls.io/r/tuvistavie/lodash.inflection?branch=master
-[coveralls-badge]: https://img.shields.io/coveralls/tuvistavie/lodash.inflection.svg
+[npm]: http://badge.fury.io/js/lodash-inflection
+[npm-badge]: https://badge.fury.io/js/lodash-inflection.svg
+[travis-ci]: https://travis-ci.org/tuvistavie/lodash-inflection
+[travis-badge]: https://travis-ci.org/tuvistavie/lodash-inflection.svg?branch=master
+[coveralls]: https://coveralls.io/r/tuvistavie/lodash-inflection?branch=master
+[coveralls-badge]: https://img.shields.io/coveralls/tuvistavie/lodash-inflection.svg
 [rails]: https://github.com/rails/rails
 [activesupport]: https://github.com/rails/rails/tree/master/activesupport
 [lodash]: http://lodash.com
-[LICENSE]: https://github.com/tuvistavie/lodash.inflection/blob/master/LICENSE
+[LICENSE]: https://github.com/tuvistavie/lodash-inflection/blob/master/LICENSE

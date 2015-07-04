@@ -1,10 +1,10 @@
 {
-  "name": "lodash.inflection",
+  "name": "lodash-inflection",
   "version": "1.2.0",
   "dependencies": {
     "lodash": "~3.10.0"
   },
-  "main": "lib/lodash.inflection.js",
+  "main": "lib/lodash-inflection.js",
   "ignore": [
     "lib-cov",
     "test"

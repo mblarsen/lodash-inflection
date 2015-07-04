@@ -3,7 +3,7 @@
   "version": "1.2.0",
   "description": "ActiveSupport::Inflector, for lodash!",
   "main": "index.js",
-  "browser": "lib/lodash.inflection.js",
+  "browser": "lib/lodash-inflection.js",
   "engines": {
     "node": ">=0.10.0 <0.12"
   },
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tuvistavie/lodash.inflection.git"
+    "url": "git://github.com/tuvistavie/lodash-inflection.git"
   },
   "keywords": [
     "lodash",
@@ -30,9 +30,9 @@
   "author": "Jeremy Ruppel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tuvistavie/lodash.inflection/issues"
+    "url": "https://github.com/tuvistavie/lodash-inflection/issues"
   },
-  "homepage": "https://github.com/tuvistavie/lodash.inflection",
+  "homepage": "https://github.com/tuvistavie/lodash-inflection",
   "devDependencies": {
     "chai": "~1.9.1",
     "coveralls": "~2.11.1",
