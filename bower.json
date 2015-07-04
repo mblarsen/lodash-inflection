@@ -1,11 +1,11 @@
 {
-  "name": "underscore.inflection",
+  "name": "lodash.inflection",
   "version": "1.2.0",
   "dependencies": {
-    "underscore": "~1.7.0"
+    "lodash": "~3.10.0"
   },
-  "main" : "lib/underscore.inflection.js",
-  "ignore" : [
+  "main": "lib/lodash.inflection.js",
+  "ignore": [
     "lib-cov",
     "test"
   ]

@@ -1,7 +1,7 @@
 /**
- * Export underscore globally
+ * Export lodash globally
  */
-global._ = require('underscore');
+global._ = require('lodash');
 
 /**
  * Export `expect` globally

@@ -1,12 +1,14 @@
-## underscore.inflection
+## lodash.inflection
 
 > [![NPM version][npm-badge]][npm]
 > [![Build Status][travis-badge]][travis-ci]
 > [![Coverage Status][coveralls-badge]][coveralls]
 
+This is a fork of [Jeremy Ruppel underscore.inflection](https://github.com/jeremyruppel/underscore.inflection) for lodash.
+
 **Another javascript inflector?!**
 
-I'll be the first to say it; this isn't the first port of [ActiveSupport::Inflector][activesupport] to js. Not by a long shot. But I'll definitely take [underscore][underscore] mixins over extending String.prototype or other clunky implementations any day.
+I'll be the first to say it; this isn't the first port of [ActiveSupport::Inflector][activesupport] to js. Not by a long shot. But I'll definitely take [lodash][lodash] mixins over extending String.prototype or other clunky implementations any day.
 
 Also, this one has tests!
 
@@ -158,7 +160,7 @@ Should you ever need to configure the Inflector beyond the defaults, use these m
 
 The [Rails][rails] team for [ActiveSupport][activesupport]
 
-The [DocumentCloud][documentcloud] team for [underscore.js][underscore]
+The [lodash][lodash] team for [lodash][lodash]
 
 These other Inflector implementations:
 
@@ -166,7 +168,7 @@ These other Inflector implementations:
 - [inflection-js](http://code.google.com/p/inflection-js/)
 - [Javascript Rails-like inflector](http://snippets.dzone.com/posts/show/3205)
 
-Though no code was taken directly from them, they deserve plenty of props for doing it before me. If underscore isn't your thing, check them out!
+Though no code was taken directly from them, they deserve plenty of props for doing it before me. If lodash isn't your thing, check them out!
 
 ## Contributors
 
@@ -188,14 +190,13 @@ Though no code was taken directly from them, they deserve plenty of props for do
 
 [MIT License][LICENSE]
 
-[npm]: http://badge.fury.io/js/underscore.inflection
-[npm-badge]: https://badge.fury.io/js/underscore.inflection.svg
-[travis-ci]: https://travis-ci.org/jeremyruppel/underscore.inflection
-[travis-badge]: https://travis-ci.org/jeremyruppel/underscore.inflection.svg?branch=master
-[coveralls]: https://coveralls.io/r/jeremyruppel/underscore.inflection?branch=master
-[coveralls-badge]: https://img.shields.io/coveralls/jeremyruppel/underscore.inflection.svg
+[npm]: http://badge.fury.io/js/lodash.inflection
+[npm-badge]: https://badge.fury.io/js/lodash.inflection.svg
+[travis-ci]: https://travis-ci.org/tuvistavie/lodash.inflection
+[travis-badge]: https://travis-ci.org/tuvistavie/lodash.inflection.svg?branch=master
+[coveralls]: https://coveralls.io/r/tuvistavie/lodash.inflection?branch=master
+[coveralls-badge]: https://img.shields.io/coveralls/tuvistavie/lodash.inflection.svg
 [rails]: https://github.com/rails/rails
 [activesupport]: https://github.com/rails/rails/tree/master/activesupport
-[underscore]: http://documentcloud.github.com/underscore/
-[documentcloud]: http://www.documentcloud.org/home
-[LICENSE]: https://github.com/jeremyruppel/underscore.inflection/blob/master/LICENSE
+[lodash]: http://lodash.com
+[LICENSE]: https://github.com/tuvistavie/lodash.inflection/blob/master/LICENSE
