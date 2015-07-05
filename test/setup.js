@@ -11,7 +11,7 @@ global.expect = require('chai').expect;
 /**
  * Require the subject under test
  */
-require('..');
+_.mixin(require('..'));
 
 /**
  * Reset inflections befor each test
