@@ -5,6 +5,8 @@
 > [![Coverage Status][coveralls-badge]][coveralls]
 
 This is a fork of [Jeremy Ruppel underscore.inflection](https://github.com/jeremyruppel/underscore.inflection) for lodash.
+The major and minor versions correspond to their upstream equivalent,
+while the patch version may change to fix some minor issues in the fork.
 
 **Another javascript inflector?!**
 
