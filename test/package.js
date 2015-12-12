@@ -10,6 +10,6 @@ describe('package', function() {
     assert.equal(package.version, bower.version);
   });
   it('requires the same version of underscore', function() {
-    assert.equal(package.devDependencies.underscore, bower.dependencies.underscore);
+    assert.equal(package.devDependencies.lodash.substring(1), bower.dependencies.lodash.substring(1));
   });
 });
