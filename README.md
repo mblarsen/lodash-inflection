@@ -14,6 +14,19 @@ I'll be the first to say it; this isn't the first port of [ActiveSupport::Inflec
 
 Also, this one has tests!
 
+Usage with CommonJS
+-------------------
+
+```
+npm install lodash
+npm install lodash-inflection
+```
+
+```js
+var _ = require("lodash");
+_.mixin(require("lodash-inflection"));
+```
+
 Inflections
 -----------
 
