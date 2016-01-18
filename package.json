@@ -40,7 +40,8 @@
     "jscoverage": "~0.5.9",
     "mocha": "~2.2.5",
     "mocha-lcov-reporter": "~0.0.2",
-    "lodash": "^3.10.1"
+    "lodash": "^3.10.1",
+    "mversion": "^1.10.1",
   },
   "dependencies": {}
 }
